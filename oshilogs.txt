@@ -12,72 +12,73 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Naura =====
-[1]Naura       |11:15:37 | 13-10-2026| login OK @vnaaura | score=1110 rank=5429
-[1]Naura       |11:15:37 | 13-10-2026| serverTime=2026-10-13T11:15:37.000Z local=2026-10-13T11:15:37.981Z
+[1]Naura       |09:07:00 | 14-10-2026| login OK @vnaaura | score=1160 rank=5187
+[1]Naura       |09:07:00 | 14-10-2026| serverTime=2026-10-14T09:07:00.000Z local=2026-10-14T09:07:00.454Z
 --> [1]Naura menjalankan: Claim Daily
-[1]Naura       |11:15:39 | 13-10-2026| daily: OK +10 poin score=1120
+[1]Naura       |09:07:01 | 14-10-2026| daily: OK +10 poin score=1170
 --> [1]Naura menjalankan: Auto All Tasks (4 pending)
-[1]Naura       |11:15:41 | 13-10-2026| [1/4] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vnaaura/status/2109965832995949464
-[1]Naura       |11:15:41 | 13-10-2026| delay 10s...
-[1]Naura       |11:15:54 | 13-10-2026| [2/4] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vnaaura/status/2109965969073898966
-[1]Naura       |11:15:54 | 13-10-2026| delay 10s...
-[1]Naura       |11:16:06 | 13-10-2026| [3/4] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vnaaura/status/2109966129683297497
-[1]Naura       |11:16:06 | 13-10-2026| delay 10s...
-[1]Naura       |11:16:18 | 13-10-2026| [4/4] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Naura       |11:16:18 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Naura       |11:16:21 | 13-10-2026| [1/1] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/vnaaura/status/2109965833658696866
+[1]Naura       |09:07:04 | 14-10-2026| [1/4] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vnaaura/status/2110295940963388943
+[1]Naura       |09:07:04 | 14-10-2026| delay 10s...
+[1]Naura       |09:07:16 | 14-10-2026| [2/4] 8dd1f57c (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Naura       |09:07:16 | 14-10-2026| delay 10s...
+[1]Naura       |09:07:28 | 14-10-2026| [3/4] 039113e7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vnaaura/status/2110295847078541719
+[1]Naura       |09:07:28 | 14-10-2026| delay 10s...
+[1]Naura       |09:07:42 | 14-10-2026| [4/4] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vnaaura/status/2110295894837042233
+[1]Naura       |09:07:42 | 14-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Naura       |09:07:44 | 14-10-2026| [1/1] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/vnaaura/status/2110295896681889160
 --> [1]Naura menjalankan: Watch Anime
-[1]Naura       |11:16:22 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Naura       |11:16:22 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Naura       |09:07:45 | 14-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Naura       |09:07:45 | 14-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Naura       |11:16:24 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Naura       |11:16:29 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Naura       |11:16:32 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Naura       |11:16:37 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Naura       |11:16:39 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Naura       |09:07:47 | 14-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Naura       |09:07:52 | 14-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Naura       |09:07:54 | 14-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Naura       |09:07:59 | 14-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Naura       |09:08:00 | 14-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Naura menjalankan: Read Article
-[1]Naura       |11:16:40 | 13-10-2026| news: 24/24 artikel selesai dibaca
-[1]Naura       |11:16:41 | 13-10-2026| mint eligibility: {"userId":"1641491002455384064","youtube":{"url":"https://www.youtube.com/@vnaaura","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady
-[1]Naura       |11:16:41 | 13-10-2026| news: semua artikel sudah dibaca
+[1]Naura       |09:08:02 | 14-10-2026| news: 24/25 artikel selesai dibaca
+[1]Naura       |09:08:03 | 14-10-2026| mint eligibility: {"userId":"1641491002455384064","youtube":{"url":"https://www.youtube.com/@vnaaura","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady
+[1]Naura       |09:08:11 | 14-10-2026| news [1/1] 5c5bca9d-4991-4e23-918b-9b13cd2245c8: OK completed=25
 --> [1]Naura menjalankan: Quiz Anime
-[1]Naura       |11:16:42 | 13-10-2026| quiz ep1: sudah dijawab
-[1]Naura       |11:16:42 | 13-10-2026| quiz ep2: sudah dijawab
-[1]Naura       |11:16:42 | 13-10-2026| quiz ep3: sudah dijawab
-[1]Naura       |11:16:42 | 13-10-2026| quiz ep4: sudah dijawab
-[1]Naura       |11:16:42 | 13-10-2026| quiz ep5: sudah dijawab
-[1]Naura       |11:16:42 | 13-10-2026| quiz ep6: sudah dijawab
+[1]Naura       |09:08:14 | 14-10-2026| quiz ep1: sudah dijawab
+[1]Naura       |09:08:14 | 14-10-2026| quiz ep2: sudah dijawab
+[1]Naura       |09:08:14 | 14-10-2026| quiz ep3: sudah dijawab
+[1]Naura       |09:08:14 | 14-10-2026| quiz ep4: sudah dijawab
+[1]Naura       |09:08:14 | 14-10-2026| quiz ep5: sudah dijawab
+[1]Naura       |09:08:14 | 14-10-2026| quiz ep6: sudah dijawab
 --> [1]Naura menjalankan: Music Missions (realtime, bisa lama!)
-[1]Naura       |11:16:44 | 13-10-2026| music: kedua misi sudah tercapai, stop
-[1]Naura       |11:16:45 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Naura       |11:16:45 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Naura       |11:16:45 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Naura       |09:08:16 | 14-10-2026| music: kedua misi sudah tercapai, stop
+[1]Naura       |09:08:17 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Naura       |09:08:17 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Naura       |09:08:17 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naura menjalankan: Claim Missions
-[1]Naura       |11:16:45 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Naura       |11:16:45 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Naura       |11:16:45 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Naura       |09:08:17 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Naura       |09:08:17 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Naura       |09:08:17 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naura menjalankan: Check Eligibility
 
 --- eligibility [1]Naura ---
-  @vnaaura | score=1110 rank=5429
-  tasks    [###################-] 74/78
+  @vnaaura | score=1160 rank=5187
+  tasks    [###################-] 76/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 24/24
+  artikel  [####################] 25/25
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Naura menjalankan: Read Manga
-[1]Naura       |11:16:50 | 13-10-2026| manga: 0/13 chapter belum completed
+[1]Naura       |09:08:22 | 14-10-2026| manga: 0/13 chapter belum completed
 --> [1]Naura menjalankan: Get Gift
-[1]Naura       |11:16:51 | 13-10-2026| gift: 0/3 belum diterima
+[1]Naura       |09:08:23 | 14-10-2026| gift: 1/4 belum diterima
+[1]Naura       |09:08:27 | 14-10-2026| gift [1/1] Silver Oshii: OK
 --> [1]Naura menjalankan: Setup Profile
-[1]Naura       |11:16:51 | 13-10-2026| profile: bio="https://x.com/vnaaura" fav=oshi rewardAt=1791682195
-[1]Naura       |11:16:51 | 13-10-2026| profile: bonus sudah diklaim, skip
+[1]Naura       |09:08:30 | 14-10-2026| profile: bio="https://x.com/vnaaura" fav=oshi rewardAt=1791682195
+[1]Naura       |09:08:30 | 14-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Naura menjalankan: Bind Wallet
-[1]Naura       |11:16:52 | 13-10-2026| wallet: sudah terikat 5dASuPFpys... (solana)
+[1]Naura       |09:08:30 | 14-10-2026| wallet: sudah terikat 5dASuPFpys... (solana)
 
 == RINGKASAN ==
-- Naura: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
+- Naura: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
