@@ -12,37 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Naura =====
-[1]Naura       |11:40:30 | 15-11-2026| login OK @vnaaura | score=3300 rank=2203
-[1]Naura       |11:40:30 | 15-11-2026| serverTime=2026-11-15T11:40:30.000Z local=2026-11-15T11:40:30.960Z
+[1]Naura       |12:17:52 | 16-11-2026| login OK @vnaaura | score=3330 rank=2189
+[1]Naura       |12:17:52 | 16-11-2026| serverTime=2026-11-16T12:17:51.000Z local=2026-11-16T12:17:52.142Z
 --> [1]Naura menjalankan: Claim Daily
-[1]Naura       |11:40:32 | 15-11-2026| daily: OK +10 poin score=3310
+[1]Naura       |12:17:53 | 16-11-2026| daily: OK +10 poin score=3340
 --> [1]Naura menjalankan: Auto All Tasks (2 pending)
-[1]Naura       |11:40:34 | 15-11-2026| [1/2] f5111b97 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f5111b97-5047-4d40-b326-6d068b77a439","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212159596795079 | proof=https://x.com/vnaaura/status/2121930803868005585
-[1]Naura       |11:40:34 | 15-11-2026| delay 10s...
-[1]Naura       |11:40:46 | 15-11-2026| [2/2] 64b7bdf9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f5111b97-5047-4d40-b326-6d068b77a439","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212159596795079 | proof=https://x.com/vnaaura/status/2121930777157274463
-[1]Naura       |11:40:46 | 15-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Naura       |11:40:47 | 15-11-2026| [1/1] f5111b97 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f5111b97-5047-4d40-b326-6d068b77a439","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121595967950791 | proof=https://x.com/vnaaura/status/2121930786010507224
+[1]Naura       |12:17:56 | 16-11-2026| [1/2] 1d2bd7c9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d2bd7c9-69be-46a0-beab-6e12ed1d7f6f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212195482386007 | proof=https://x.com/vnaaura/status/2122302606831355909
+[1]Naura       |12:17:56 | 16-11-2026| delay 10s...
+[1]Naura       |12:18:08 | 16-11-2026| [2/2] df76b569 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d2bd7c9-69be-46a0-beab-6e12ed1d7f6f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212195482386007 | proof=https://x.com/vnaaura/status/2122302583046393925
+[1]Naura       |12:18:08 | 16-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Naura       |12:18:09 | 16-11-2026| [1/1] 1d2bd7c9 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1d2bd7c9-69be-46a0-beab-6e12ed1d7f6f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121954823860076 | proof=https://x.com/vnaaura/status/2122302660821073476
 --> [1]Naura menjalankan: Watch Anime
-[1]Naura       |11:40:48 | 15-11-2026| watch: semua video sudah completed
+[1]Naura       |12:18:10 | 16-11-2026| watch: semua video sudah completed
 --> [1]Naura menjalankan: Read Article
-[1]Naura       |11:40:49 | 15-11-2026| news: 34/34 artikel selesai dibaca
-[1]Naura       |11:40:49 | 15-11-2026| mint eligibility: {"userId":"1641491002455384064","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vnaaura","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
-[1]Naura       |11:40:49 | 15-11-2026| news: semua artikel sudah dibaca
+[1]Naura       |12:18:11 | 16-11-2026| news: 34/34 artikel selesai dibaca
+[1]Naura       |12:18:12 | 16-11-2026| mint eligibility: {"userId":"1641491002455384064","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vnaaura","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
+[1]Naura       |12:18:12 | 16-11-2026| news: semua artikel sudah dibaca
 --> [1]Naura menjalankan: Quiz Anime
 --> [1]Naura menjalankan: Music Missions (realtime, bisa lama!)
-[1]Naura       |11:40:51 | 15-11-2026| music: kedua misi sudah tercapai, stop
-[1]Naura       |11:40:52 | 15-11-2026| mission music-listens-10: sudah diklaim
-[1]Naura       |11:40:52 | 15-11-2026| mission music-minutes-30: sudah diklaim
-[1]Naura       |11:40:52 | 15-11-2026| mission anime-completed-3: sudah diklaim
+[1]Naura       |12:18:14 | 16-11-2026| music: kedua misi sudah tercapai, stop
+[1]Naura       |12:18:14 | 16-11-2026| mission music-listens-10: sudah diklaim
+[1]Naura       |12:18:14 | 16-11-2026| mission music-minutes-30: sudah diklaim
+[1]Naura       |12:18:14 | 16-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naura menjalankan: Claim Missions
-[1]Naura       |11:40:52 | 15-11-2026| mission music-listens-10: sudah diklaim
-[1]Naura       |11:40:52 | 15-11-2026| mission music-minutes-30: sudah diklaim
-[1]Naura       |11:40:52 | 15-11-2026| mission anime-completed-3: sudah diklaim
+[1]Naura       |12:18:15 | 16-11-2026| mission music-listens-10: sudah diklaim
+[1]Naura       |12:18:15 | 16-11-2026| mission music-minutes-30: sudah diklaim
+[1]Naura       |12:18:15 | 16-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naura menjalankan: Check Eligibility
 
 --- eligibility [1]Naura ---
-  @vnaaura | score=3300 rank=2203
-  tasks    [############--------] 3/5
+  @vnaaura | score=3330 rank=2189
+  tasks    [##########----------] 2/4
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -53,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Naura menjalankan: Read Manga
-[1]Naura       |11:40:55 | 15-11-2026| manga: 0/13 chapter belum completed
+[1]Naura       |12:18:18 | 16-11-2026| manga: 0/13 chapter belum completed
 --> [1]Naura menjalankan: Get Gift
-[1]Naura       |11:40:57 | 15-11-2026| gift: 3/12 belum diterima
-[1]Naura       |11:40:57 | 15-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Naura       |11:41:00 | 15-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Naura       |11:41:03 | 15-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Naura       |12:18:20 | 16-11-2026| gift: 3/12 belum diterima
+[1]Naura       |12:18:20 | 16-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Naura       |12:18:23 | 16-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Naura       |12:18:26 | 16-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Naura menjalankan: Setup Profile
-[1]Naura       |11:41:05 | 15-11-2026| profile: bio="https://x.com/vnaaura" fav=oshi rewardAt=1791682195
-[1]Naura       |11:41:05 | 15-11-2026| profile: bonus sudah diklaim, skip
+[1]Naura       |12:18:28 | 16-11-2026| profile: bio="https://x.com/vnaaura" fav=oshi rewardAt=1791682195
+[1]Naura       |12:18:28 | 16-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Naura menjalankan: Bind Wallet
-[1]Naura       |11:41:05 | 15-11-2026| wallet: sudah terikat 5dASuPFpys... (solana)
+[1]Naura       |12:18:29 | 16-11-2026| wallet: sudah terikat 5dASuPFpys... (solana)
 
 == RINGKASAN ==
 - Naura: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
